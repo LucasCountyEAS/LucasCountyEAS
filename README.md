@@ -7,9 +7,9 @@ He/Him/Any
 
 ------------
 
-My main operating system is Windows 11 Professional / iOS 27.0. (latest developer beta)
+My main operating system is EndeavourOS / iOS 27.0. (latest developer beta)
 
-My secondary operating system is macOS 27.0 *Golden Gate* (latest developer beta)
+My secondary operating system is macOS 27 *Golden Gate* (latest public beta)
 
 ------------
 
