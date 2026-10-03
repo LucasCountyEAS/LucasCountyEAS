@@ -3,8 +3,6 @@
 
 I am LucasCountyEAS, you can call me Lucas, or Rukasu ( ルカス )
 
-He/Him/Any
-
 ------------
 
 My main operating system is EndeavourOS / iOS 27.0. (latest developer beta)
@@ -12,16 +10,12 @@ My main operating system is EndeavourOS / iOS 27.0. (latest developer beta)
 My secondary operating system is macOS 27 *Golden Gate* (latest public beta)
 
 ------------
-
-
-
-I own 2 WXL51 streams, on both [weatherradio.org](https://weatherradio.org/) and [noaaweatherradio.org](https://noaaweatherradio.org/) !
-
-I designed and stream Widescreen WeatherScan 24/7 on [Mist Live](https://mistlive.tv/channels/wlce).
-
-------------
-
-
 I made a [Roku App](https://github.com/LucasCountyEAS/mist-streaming-roku/tree/main) for Mist Live.
 
 I also made an [Android TV app](https://github.com/LucasCountyEAS/mist-live-android) for Mist Live.
+
+
+------------
+I own 2 WXL51 streams, on both [weatherradio.org](https://weatherradio.org/) and [noaaweatherradio.org](https://noaaweatherradio.org/) !
+
+I designed and stream Widescreen WeatherScan 24/7 on [Mist Live](https://mistlive.tv/channels/wlce).
